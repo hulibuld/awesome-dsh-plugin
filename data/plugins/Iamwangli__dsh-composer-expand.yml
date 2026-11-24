@@ -1,0 +1,6 @@
+url: https://github.com/Iamwangli/dsh-composer-expand
+name: Iamwangli/dsh-composer-expand
+category: ui
+description:
+  en: Adds a toolbar button that enlarges the composer input box; while enlarged, Enter inserts a newline and only the Send button (or Ctrl/Cmd+Enter) sends.
+  zh: 在输入框工具栏增加一个放大按钮；放大后 Enter 换行，需点击发送（或 Ctrl/Cmd+Enter）。

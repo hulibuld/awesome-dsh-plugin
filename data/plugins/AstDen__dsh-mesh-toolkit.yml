@@ -1,0 +1,5 @@
+url: https://github.com/AstDen/dsh-mesh-toolkit
+name: AstDen/dsh-mesh-toolkit
+category: tools
+description:
+  en: 'Volume meshing for OpenFOAM and ANSYS Fluent: generates watertight STL geometry, builds snappyHexMesh, cfMesh or gmsh meshes, gates each mesh on checkMesh thresholds with an absolute minimum-volume rule, keeps a mesh passport, and packages a delivered case for both codes. 12 tools and 40 knowledge cards in the merged hints catalogue.'
